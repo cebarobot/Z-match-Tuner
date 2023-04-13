@@ -9,6 +9,7 @@
 * `Z-match chematic.pdf ` 原理图
 * `z-match-2.zip` KiCad 工程文件
 * `z-match-2-gerber.zip` Gerber 制板文件
+* `z-match panel.eprj` 前后面板的 LCEDA 工程文件
 
 ## License
 MIT LICENSE
