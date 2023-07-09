@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "z-match")(type "KiCad")(uri "${KIPRJMOD}/z-match.pretty")(options "")(descr ""))
+)
